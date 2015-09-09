@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newspaper xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" statement="select adtext  from ad where adCategoryID=28 order by adinsertdate desc limit 100">  
+	<image01 href="file:///E:/presentation/Ads/images/eot.jpg"></image01>
+	<image02 href="file:///E:/presentation/Ads/images/macdonalds.jpg"></image02>
+	<image03 href="file:///E:/presentation/Ads/images/CONNX-TALK.JPG"></image03>
+	<image04 href="file:///E:/presentation/Ads/images/tsigara.jpg"></image04>
+	<image05 href="file:///E:/presentation/Ads/images/women.jpg"></image05>
+	<image06 href="file:///E:/presentation/Ads/images/lotus-car.jpg"></image06>
+</newspaper>

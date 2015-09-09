@@ -1,0 +1,1 @@
+﻿app.panels.itemByName("$ID/Preview").visible = true;
